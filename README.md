@@ -22,35 +22,14 @@ I'm Yuvraj Patel, an aspiring Data Scientist with a background in Mechanical Eng
 
 ## Skills
 
-- Remote Sensing
-- Geographic Information Systems (GIS)
 - Python (Basics)
-- SQL (Basics)
-- Power BI (Basics)
+- SQL 
+- Power BI 
 
 ## Languages
 
-- English (Limited Working)
+- English (Professional Working)
 - Hindi (Professional Working)
-
-## Certifications
-
-- Remote Sensing & Basic Principles of GIS Technology
-- Basics of Python Programming for Absolute Beginners
-
-## Experience
-
-**NTPC Limited**
-- *Graduate Engineer Trainee*
-- December 2020 - December 2021 (1 year 1 month)
-- Bilaspur, Chhattisgarh, India
-  - Worked as a Graduate Engineer Trainee at NTPC, gaining practical knowledge about power plant operations and safety measures.
-
-## Education
-
-**Chhattisgarh Swami Vivekanand Technical University, Bhilai**
-- *Bachelor of Engineering (BE), Mechanical Engineering*
-- 2015 - 2019
 
 ## GitHub Stats
 
