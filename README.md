@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1 align="center">Hi there, I'm Yuvraj Patel 👋</h1>
+<h1 align="center">I'm Yuvraj Patel 👋</h1>
 <h3 align="center">Aspiring Data Scientist | Data Analyst | </h3>
 
 ![Profile Banner](https://your-image-url.com/banner.png)
