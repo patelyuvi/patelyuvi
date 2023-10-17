@@ -1,14 +1,14 @@
 ### Hi there 👋
 
 <h1 align="center">I'm Yuvraj Patel 👋</h1>
-<h3 align="center">Aspiring Data Scientist | Data Analyst | </h3>
+<h3 align="center">Aspiring Data Analyst | Data Scientist | </h3>
 
 ![Profile Banner](https://your-image-url.com/banner.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patelyuvi&label=Profile%20views&color=0e75b6&style=flat" alt="patelyuvi" /> </p>
 
 - 🌱 I'm currently learning **Data Science**.
-- 💬 Ask me about **Python, Microsoft Excel, Statistics**.
+- 💬 Ask me about **Python, Microsoft Excel, MySQL, Statistics**.
 - 📫 How to reach me: **[connect.yuvii@gmail.com](mailto:connect.yuvii@gmail.com)**.
 
 <h3 align="left">Connect with me:</h3>
