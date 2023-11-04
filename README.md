@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patelyuvi&label=Profile%20views&color=0e75b6&style=flat" alt="patelyuvi" /> </p>
 
 - 🌱 I'm currently learning **Data Analytics**.
-- 💬 Ask me about **Python, Microsoft Excel, MySQL, Statistics, Power BI**.
+- 💬 Ask me about **Python, MySQL, Microsoft Excel, Power BI, Statistics **.
 - 📫 How to reach me: **[connect.yuvii@gmail.com](mailto:connect.yuvii@gmail.com)**.
 
 <h3 align="left">Connect with me:</h3>
@@ -23,8 +23,9 @@ I'm Yuvraj Patel, an aspiring Data Scientist with a background in Mechanical Eng
 ## Skills
 
 - Python (Basics)
-- SQL 
+- MySQL 
 - MS Excel
+- Power BI
 - Statistics
 
 ## Languages
