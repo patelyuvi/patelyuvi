@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patelyuvi&label=Profile%20views&color=0e75b6&style=flat" alt="patelyuvi" /> </p>
 
 - 🌱 I'm currently learning **Data Analytics**.
-- 💬 Ask me about **Python, Microsoft Excel, MySQL, Statistics**.
+- 💬 Ask me about **Python, Microsoft Excel, MySQL, Statistics, Power BI**.
 - 📫 How to reach me: **[connect.yuvii@gmail.com](mailto:connect.yuvii@gmail.com)**.
 
 <h3 align="left">Connect with me:</h3>
