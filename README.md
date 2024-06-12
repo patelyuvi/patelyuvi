@@ -1,14 +1,14 @@
 ### Hi there 👋
 
 <h1 align="center">I'm Yuvraj Patel 👋</h1>
-<h3 align="center">Aspiring Data Analyst | Data Scientist | </h3>
+<h3 align="center">Aspiring Data Analyst | Business Analyst | </h3>
 
 ![Profile Banner](https://your-image-url.com/banner.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patelyuvi&label=Profile%20views&color=0e75b6&style=flat" alt="patelyuvi" /> </p>
 
 - 🌱 I'm currently learning **Data Analytics**.
-- 💬 Ask me about **Python, MySQL, Microsoft Excel, Power BI,Tableau, Statistics **.
+- 💬 Ask me about **MySQL, Microsoft Excel, Power BI,Tableau, Statistics **.
 - 📫 How to reach me: **[connect.yuvii@gmail.com](mailto:connect.yuvii@gmail.com)**.
 
 <h3 align="left">Connect with me:</h3>
@@ -22,12 +22,13 @@ I'm Yuvraj Patel, an aspiring Data Analyst with a background in Mechanical Engin
 
 ## Skills
 
-- Python (Basics)
+- PostgreSQL
 - MySQL 
 - MS Excel
 - Power BI
 - Tableau
 - Statistics
+- Python(Basics)
 
 ## Languages
 
